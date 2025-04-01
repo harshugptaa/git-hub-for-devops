@@ -1,0 +1,36 @@
+ 0.340 git init
+   3        0.187 git status
+   4        0.208  git add TESTINT.PY
+   5        0.115 git status
+   6        0.175 git add testing.py
+  c 7        0.140 git status
+   8        0.286 git commit -m "added testing files"
+   9        0.201 git commit -m "added testing files"
+  10        0.174 git commit -m "added testing files"
+  11        0.182 git commit -m "added testing files"
+  12        3.572 hii
+  13        0.189 git status
+  14        0.157 git commit -m "added testing files"
+  15        0.172 git config --global user.email "harshugpta@gmail.com"
+  16        0.168   git config --global user.name "HARSH GUPTA"
+  17        0.283 git commit -m "added testing files"
+  18        0.362 GIT STATUS\
+  19        0.155 git status
+  20        0.103 rm testing.py
+  21        0.179 clear
+  22        0.172 git status
+  23        0.164 git restore testing.py
+  24        0.025 clear
+
+   git add git_command.txt
+  29        0.341 git commit -m "added git commands"
+  30        0.121 git status
+  31        0.005 clear
+  32        0.213 git remote add origin https://github.com/harsh… 
+  33     
+  34        0.176 git remote -v
+  35       31.211 git push origin master
+  36        0.189 git remote set-url origin http:// ghp_mzOuNS30… 
+  37        0.145 git remote -v
+  38        4.817 git push origin master
+  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
